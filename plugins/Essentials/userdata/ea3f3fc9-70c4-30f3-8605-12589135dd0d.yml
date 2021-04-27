@@ -1,0 +1,19 @@
+lastAccountName: QuboCkBot
+timestamps:
+  login: 1614114470311
+  logout: 1614114471468
+ipAddress: 169.50.53.7
+lastlocation:
+  world: lobby
+  x: 299.40797240698254
+  y: 183.0
+  z: -422.1680363590778
+  yaw: -0.084991455
+  pitch: 0.6623599
+logoutlocation:
+  world: lobby
+  x: 299.5
+  y: 183.0
+  z: -422.5
+  yaw: -1.3261267
+  pitch: 6.251731

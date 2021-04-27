@@ -1,0 +1,22 @@
+lastAccountName: DarkWolfieOnYT
+timestamps:
+  login: 1613746697123
+  logout: 1613746693473
+  lastteleport: 1613675300274
+ipAddress: 68.61.14.155
+lastlocation:
+  world: amazon
+  x: -87.63359480454643
+  y: 65.78608123157454
+  z: 37.009899826192616
+  yaw: 291.07205
+  pitch: 15.871421
+logoutlocation:
+  world: lobby
+  x: 290.75381922249954
+  y: 83.0
+  z: -489.14333026391927
+  yaw: 105.661514
+  pitch: -41.072037
+afk: false
+money: '100'

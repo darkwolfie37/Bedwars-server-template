@@ -1,0 +1,17 @@
+# 
+# Developed by FireBreath15                                                     #
+#                                                                               #
+# This is iControlU's configuration file. Keep in mind that when making changes #
+# you will need to save the file and reload the plugin. For best results, a     #
+# server restart is recommended. If you encounter any bugs, please post their   #
+# relevant logs in the plugin's Discussion forum on SpigotMC.org.               #
+time_controlLimit: 45
+time_cooldown: 60
+time_invisible: 15
+showMessages: false
+useRecipes: true
+allowFreecam: true
+maxRadius: 50
+maxDistance: 15
+playSound: BLOCK_DISPENSER_FAIL
+checkForUpdates: true

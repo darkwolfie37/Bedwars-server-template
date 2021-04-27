@@ -1,0 +1,22 @@
+lastAccountName: OriginalBedwars
+timestamps:
+  login: 1613511899788
+  logout: 1613512412428
+  mute: 0
+ipAddress: 173.52.69.229
+lastlocation:
+  world: world
+  x: -3.5
+  y: 72.0
+  z: 7.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 285.65422642699326
+  y: 181.0
+  z: -423.97539241724763
+  yaw: 260.78024
+  pitch: 25.658775
+muteReason: Spam 10m
+muted: true
